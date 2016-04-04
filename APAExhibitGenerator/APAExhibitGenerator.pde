@@ -18,6 +18,10 @@ void setup() {
   wordLibrary.add(word_10);
 }
 
+void draw() {
+  // Runs Continuously to detect keyStroke
+}
+
 String generate() {
   String exhibit = "";
   
