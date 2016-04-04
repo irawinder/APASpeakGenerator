@@ -1,4 +1,5 @@
-// Click Play and press the space bar to print a random string to the Processing console
+// Open Script in Processing 2.2.1 (processing.org)
+// Click Play and press the spacebar to print a random string to the Processing console
 // Ira Winder, jamesira.com
 
 ArrayList<String[]> wordLibrary;
@@ -15,10 +16,6 @@ void setup() {
   wordLibrary.add(word_8);
   wordLibrary.add(word_9);
   wordLibrary.add(word_10);
-}
-
-void draw() {
-  
 }
 
 String generate() {
